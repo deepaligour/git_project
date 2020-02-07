@@ -2,3 +2,6 @@ Hello world....
 
 
 welcome to git.... ;)
+
+change 1..
+change 2
