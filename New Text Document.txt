@@ -1,0 +1,4 @@
+by default master branch created
+
+checkout - switch btw branches/tags
+	to go back and take  a look
