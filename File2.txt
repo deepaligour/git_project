@@ -1,1 +1,3 @@
 this is the code for cr1
+
+changed for new feature implimentation in progress
